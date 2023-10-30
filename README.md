@@ -33,3 +33,9 @@ http://localhost:5000/api/book/get-single-book/653fcd2863ff6479e4b3bfac         
 http://localhost:5000/api/book/edit/653fc6e550e37e7c8faa6149                    => **edit the book by id              (Post Api)**
 http://localhost:5000/api/book/delete-book/653fcd2863ff6479e4b3bfa7             => **delete book by id                (Delete Api)**
 
+
+Deployed The Backend using Render
+delpoyed url https://backend-gi9l.onrender.com
+![image](https://github.com/spandit230496/books-and-author/assets/117799882/e2734354-04b7-42ee-8eed-0deb3fca0a65)
+
+
