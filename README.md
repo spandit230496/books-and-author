@@ -10,13 +10,13 @@ run the command npm install/ npm i to install node modules as they are ignored d
 
 step 2=> use use monogodb atlas url for db set setup and paste that in dotenv file
 
-step 2 =>
+step 3 =>
 if you saved it in any other folder then naviagate to that folder and then run command
  nodemon ./index.js     (as index.js is my enter point )
 
-step 3 => it will start both server and also will connect with database
+step 4 => it will start both server and also will connect with database
 
-step 4=> to check api(s) 
+step 5=> to check api(s) 
 open postman and then test each api 
 
 
