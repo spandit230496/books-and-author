@@ -20,7 +20,7 @@ step 5=> to check api(s)
 open postman and then test each api 
 
 
-http://localhost:5000/api/book/add-book     =>** post api** 
+http://localhost:5000/api/book/add-book     =>                                      ** post api** 
 use body as raw(json)
 {
   "title":"The Indian Story",
