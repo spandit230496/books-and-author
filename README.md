@@ -1,7 +1,14 @@
 # books-and-author
 
+
+Used MVC pattern to Create Backend
+Used .env File to hide the mongo db api 
+
+
 step 1=>
 run the command npm install/ npm i to install node modules as they are ignored during repo upload
+
+step 2=> use use monogodb atlas url for db set setup and paste that in dotenv file
 
 step 2 =>
 if you saved it in any other folder then naviagate to that folder and then run command
